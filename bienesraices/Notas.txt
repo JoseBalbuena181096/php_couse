@@ -1,0 +1,41 @@
+Cuando trabajas con php existen todo tipo de formas de crear un proyecto:
+
+- Espaguetti:
+    Tiende a ser un código mas desordenado.
+    
+    Ideal para aprender ya que las bases de PHP son suficientes para crear
+    proyectos así.
+    
+    Dificultad: Fácil, ideal para tus primeros proyectos.
+
+- API:
+    Consultar una base de datos e imprimir los resultados con JSON, para 
+    mostrarlos con Javascript.
+
+    Ideal para utlizarse con Javascript, Vue, React, Angular o aplicaciones
+    móviles.
+
+    Dificultad: Media.
+
+- Model View Controller (MVC):
+    Una de las arquitecturas más avanzadas.
+
+    Ideal para tener estructura y organización.
+
+    Debes conocer la programación Orientada a Objetos.
+
+    Dificultad: Alta.
+
+El método GET:
+Expone los datos en la url
+Obtener datos de un servidor (visitar una url)
+Cuando se requiere leer datos de la url o/y pasar información entre pantallas
+
+
+
+El método POST:
+Los maneja internamente en el archivo, no en la url
+Para enviar datos de forma segura
+Enviar datos a un servidor
+Cuando se usa inicio de sesión o/y información mas segura se usa post
+
